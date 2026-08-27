@@ -82,6 +82,15 @@ Decode_lab_proj_1/
 │   ├── Member1.webp .. Member3.jpg    # Testimonial photos (3 images)
 │   └── Galler1.svg         # Placeholder asset
 ├── IMAGES.md            # Image sourcing notes and keyword suggestions
+├── screenshots/
+│   ├── hero.png
+│   ├── about.png
+│   ├── programs.png
+│   ├── membership.png
+│   ├── gallery.png
+│   ├── trainers.png
+│   ├── contact.png
+│   └── footer.png
 └── README.md
 ```
 
@@ -138,6 +147,32 @@ Using VS Code / Cursor Live Server extension:
 
 ---
 
+## 📸 Screenshots
+
+| Hero                                    | About                                     |
+| ---------------------------------------- | ------------------------------------------ |
+| <img width="1880" height="903" alt="image" src="https://github.com/user-attachments/assets/1d4aa36a-a883-4b72-9d85-dcfa64caf32d" /> |<img width="1871" height="900" alt="image" src="https://github.com/user-attachments/assets/ea432c31-8c65-4489-a2de-9cc2e56626eb" />
+ |
+
+| Programs                                        | Membership                                        |
+| ------------------------------------------------ | -------------------------------------------------- |
+| <img width="1873" height="901" alt="image" src="https://github.com/user-attachments/assets/394e93ff-326e-4250-ae92-1e3dc5d42322" />|<img width="1878" height="897" alt="image" src="https://github.com/user-attachments/assets/98b692d5-af03-4686-97e4-ac29dd51ec0b" />|
+
+| Gallery                                       | Trainers                                        |
+| ----------------------------------------------- | ------------------------------------------------- |
+| <img width="1831" height="865" alt="image" src="https://github.com/user-attachments/assets/910e016e-37e8-4af2-9ebe-297b20e54070" />|<img width="1823" height="862" alt="image" src="https://github.com/user-attachments/assets/ab9c1b95-4aed-4720-b295-785915493c9a" /> |
+
+| Testimonials                                    | BMI Calculator                                       |
+| ----------------------------------------------- | ------------------------------------------------- |
+|<img width="1862" height="895" alt="image" src="https://github.com/user-attachments/assets/a505a66f-b62a-41d3-9040-192d08adfd8d" />|<img width="1861" height="883" alt="image" src="https://github.com/user-attachments/assets/ec1dec81-88b6-44de-bc31-4b68774f2b86" /> |
+
+| Contact                                        | Footer                                      |
+| ------------------------------------------------ | --------------------------------------------- |
+| <img width="1867" height="857" alt="image" src="https://github.com/user-attachments/assets/2b7555c4-4069-414a-8af9-eb8b7a381333" /> | <img width="1866" height="898" alt="image" src="https://github.com/user-attachments/assets/2ca59cb0-5b21-4864-b928-2624e8b88345" /> |
+
+
+---
+
 ## 💡 What I Learned
 
 - Structuring a long single-page site with semantic HTML5 (`header`, `nav`, `section`, `article`, `footer`)
@@ -177,12 +212,10 @@ Images are placeholders sourced for portfolio presentation — see `IMAGES.md` f
 
 ## 👤 Author
 
-**Syed**  
-Software Engineer · Frontend Developer
-**[Syed Qazi Burhan]**  
+**Syed Qazi Burhan**  
 Software Engineer 
 
-- GitHub: [github.com/Qazi-Burhan]
+- GitHub: [github.com/Qazi-Burhan](https://github.com/Qazi-Burhan)
 - LinkedIn: [www.linkedin.com/in/syed-qazi-burhan-ul-haq-36aa90333]
 
 ---
